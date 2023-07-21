@@ -1,2 +1,2 @@
 # jenkinsPipeSimple
-just test it
+just testing it
