@@ -1,3 +1,3 @@
 # jenkinsPipeSimple
 just testing it
-to control
+to control it
